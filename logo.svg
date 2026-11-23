@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 160" role="img" aria-label="Café de Paris Tilburg">
+  <title>Café de Paris — Tilburg</title>
+  <!-- словесный знак: Instrument Serif (заголовок) + деталь метафоры: дуга бладгоуд-надписи на витрине и луифель-зубцы -->
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#8A6A24"/><stop offset=".5" stop-color="#E2C27A"/><stop offset="1" stop-color="#8A6A24"/></linearGradient></defs>
+  <path d="M30 60 Q260 -10 490 60" fill="none" stroke="url(#g)" stroke-width="2"/>
+  <path d="M60 22 l10 10 10-10 10 10 10-10" fill="none" stroke="#1E4A38" stroke-width="2" transform="translate(185 4)"/>
+  <text x="260" y="104" text-anchor="middle" font-family="'Instrument Serif',Georgia,serif" font-size="64" fill="#1E4A38">Café <tspan font-style="italic" fill="#74561C">de</tspan> Paris</text>
+  <line x1="150" y1="124" x2="370" y2="124" stroke="url(#g)" stroke-width="1.5"/>
+  <text x="260" y="146" text-anchor="middle" font-family="'Fragment Mono',monospace" font-size="13" letter-spacing="6" fill="#1B1F1C">EMMASTRAAT · TILBURG</text>
+</svg>

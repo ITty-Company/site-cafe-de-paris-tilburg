@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DOMEIN.nl = plaatshouder: vervang door het echte domein (zie README) -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://DOMEIN.nl/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://DOMEIN.nl/kaart.html</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://DOMEIN.nl/over.html</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://DOMEIN.nl/reserveren.html</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://DOMEIN.nl/contact.html</loc><lastmod>2026-11-23</lastmod></url>
+</urlset>
